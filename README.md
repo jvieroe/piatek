@@ -1,2 +1,8 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # piatek
-get player stats from transfermarkt.com
+
+<!-- badges: start -->
+
+<!-- badges: end -->
